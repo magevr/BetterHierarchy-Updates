@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "downloadUrl": "https://discord-verify.nadegesuperstar.repl.co/download/free",
-  "changelog": "🐛 Bug Fix Update v1.0.1\n\n✅ Fixed:\n• Discord code generation working\n• Added secure download system\n• Only verified users can download updates\n\n🔒 Security:\n• Updates require Discord verification",
+  "downloadUrl": "https://github.com/magevr/BetterHierarchy-Updates/releases/download/v1.0.1/BetterHierarchyFree.unitypackage",
+  "changelog": "🐛 Bug Fix v1.0.1\n\n✅ Fixed:\n• Discord code generation now working\n• Improved API connectivity\n• Better error handling\n\n💎 Upgrade to Premium for more features!",
   "critical": false
 }
