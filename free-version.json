@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/magevr/BetterHierarchy-Updates/releases/download/v1.0.0/BetterHierarchyFree.unitypackage",
-  "changelog": "🎉 Initial Release\n\n✨ Features:\n• Better Hierarchy organization\n• Basic features\n• Auto-updater",
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/magevr/BetterHierarchy-Updates/releases/download/v1.0.1/BetterHierarchyFree.unitypackage",
+  "changelog": "🐛 Bug Fix Update v1.0.1\n\n✅ Fixed:\n• Discord code generation now working properly\n• Added POST /generate-code endpoint\n• Fixed CORS support for Unity requests\n• Improved API authentication\n• Better error handling for offline mode\n\n📋 What's Working:\n• Server-side verification code generation\n• One-time code verification in Discord\n• Discord integration with role assignment\n\n💎 Want Premium features?\nUpgrade for advanced hierarchy tools!",
   "critical": false
 }
